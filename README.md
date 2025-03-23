@@ -14,7 +14,8 @@
  - [Lista circular doble de listas circulares dobles](https://github.com/Sudo-Guts/C_Estructuras/blob/main/library/LListCD.h)
  - [Arbol de Busqueda Binaria](https://github.com/Sudo-Guts/C_Estructuras/blob/main/library/ABB.h)
  - [Arbol Binario (Adelson-Velskii)](https://github.com/Sudo-Guts/C_Estructuras/blob/main/library/AVL.h)
-[ Este documento presenta diversas estructuras desarrolladas en lenguaje C, junto con ejemplos ilustrativos de su uso. Las estructuras se encuentran organizadas en formato de librería para facilitar su integración en distintos proyectos ].
+
+Este documento presenta diversas estructuras desarrolladas en lenguaje C, junto con ejemplos ilustrativos de su uso. Las estructuras se encuentran organizadas en formato de librería para facilitar su integración en distintos proyectos.
 
 ![Logo](https://i.pinimg.com/736x/86/6c/24/866c2407ff76c5e6398392fcb7fbda47.jpg)
 
