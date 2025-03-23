@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pila.h": "c",
+        "cola.h": "c",
+        "lists.h": "c",
+        "stdio.h": "c",
+        "cmath": "cpp",
+        "exception": "cpp"
+    }
+}
