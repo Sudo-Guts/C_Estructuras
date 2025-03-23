@@ -5,6 +5,7 @@
         "lists.h": "c",
         "stdio.h": "c",
         "cmath": "cpp",
-        "exception": "cpp"
+        "exception": "cpp",
+        "stdlib.h": "c"
     }
 }
